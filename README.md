@@ -1,5 +1,4 @@
-# GIT_commits
-homework assignment consisting of making 30 commits 
+
 
 The Following is a data base to track the progress of the martial eclipse, as it was hard to
 predict the exact time at which it was going to ocurred. The closest experts were able to
