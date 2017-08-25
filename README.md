@@ -6,3 +6,4 @@ Time    Progress
 0700    No Eclipse
 0800    No Eclipse
 0900    No Eclipse
+1000    No Eclipse
