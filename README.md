@@ -21,4 +21,8 @@ Time    Progress
 1545    Eclipse @ 75%
 1550    Eclipse @ 5%
 1600    No Eclipse
+1630    Eclipse @ 5%
+1700    No Eclipse
+1800    Eclipse @ 35%
+1900    
 
