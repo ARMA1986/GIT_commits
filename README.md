@@ -6,3 +6,5 @@ predict was the date: June 23rd 2037.
 
 Time    Progress
 0700    No Eclipse
+0800    No Eclipse
+0900    No Eclipse
