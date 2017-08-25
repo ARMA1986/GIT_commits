@@ -25,5 +25,7 @@ Time    Progress
 1700    No Eclipse
 1800    Eclipse @ 35%
 1900    Eclipse @ 90%
-
+2100    Eclipse is divided in 2
+2200    Mars explodes
+2300    
 
