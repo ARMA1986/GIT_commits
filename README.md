@@ -27,5 +27,5 @@ Time    Progress
 1900    Eclipse @ 90%
 2100    Eclipse is divided in 2
 2200    Mars explodes
-2300    
+2300    Rain of Meteors on Earth 
 
