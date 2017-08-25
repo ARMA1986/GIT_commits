@@ -11,3 +11,4 @@ Time    Progress
 1200    No Eclipse
 1300    No Eclipse
 1400    No Eclipse
+1500
